@@ -1,0 +1,1224 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: SushiSwap Interface\n"
+"PO-Revision-Date: 2021-05-05 14:23\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"Plural-Forms: \n"
+
+msgid ""
+"(COMING SOON) Accrue automatic yield through flash loans and\n"
+"KANGA strategies"
+msgstr ""
+
+msgid "1 Hour"
+msgstr ""
+
+msgid "1 Week"
+msgstr ""
+
+msgid "24 Hours"
+msgstr ""
+
+msgid "30 Days"
+msgstr ""
+
+msgid "A portion of each trade (0.05%) goes to xKANGA holders as a protocol incentive."
+msgstr ""
+
+msgid "A portion of each trade (0.25%) goes to liquidity providers as a protocol incentive."
+msgstr ""
+
+msgid "APR"
+msgstr ""
+
+msgid "Aave"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add KANGA to your MetaMask wallet"
+msgstr ""
+
+msgid "Add collateral in order to borrow assets"
+msgstr ""
+
+msgid "Add liquidity"
+msgstr ""
+
+msgid "Add xKANGA to your MetaMask wallet"
+msgstr ""
+
+msgid "Add {0} to MetaMask"
+msgstr ""
+
+msgid "Add {0} {1} and {2} {3}"
+msgstr ""
+
+msgid "Added"
+msgstr ""
+
+msgid "Additional records and weekly merkle updates can be found on"
+msgstr ""
+
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr ""
+
+msgid "Analytics"
+msgstr ""
+
+msgid "Approve"
+msgstr ""
+
+msgid "Approve Jump Master Contract"
+msgstr ""
+
+msgid "Approve Jump to spend {0}"
+msgstr ""
+
+msgid "Approve Limit Order"
+msgstr ""
+
+msgid "Approve Troop"
+msgstr ""
+
+msgid "Approve {0}"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Approving"
+msgstr ""
+
+msgid "Approving Jump Master Contract"
+msgstr ""
+
+msgid "Approving Jump to spend {0}"
+msgstr ""
+
+msgid "Approving Limit Order"
+msgstr ""
+
+msgid "Approving {0}"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Available Networks"
+msgstr ""
+
+msgid "Back to Limit Orders"
+msgstr ""
+
+msgid "Balance"
+msgstr ""
+
+msgid "Balance USD"
+msgstr ""
+
+msgid "Balance:"
+msgstr ""
+
+msgid "Borrow"
+msgstr ""
+
+msgid "Borrow assets and leverage up"
+msgstr ""
+
+msgid "Borrow {0}"
+msgstr ""
+
+msgid "Borrow {0}-{1}"
+msgstr ""
+
+msgid "Borrowed"
+msgstr ""
+
+msgid "Borrowing allows you to obtain liquidity without selling. Your borrow limit depends on the amount of deposited collateral. You will be able to borrow up to 75% of your collateral and repay at any time with accrued interest."
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+msgid ""
+"By adding liquidity you'll earn 0.25% of all trades on this pair\n"
+"proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be\n"
+"claimed by withdrawing your liquidity."
+msgstr ""
+
+msgid "Bypasses confirmation modals and allows high slippage trades. Use at your own risk."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Order"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Recipient"
+msgstr ""
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Claim KANGA"
+msgstr ""
+
+msgid "Claimed"
+msgstr ""
+
+msgid "Clear History"
+msgstr ""
+
+msgid "Clear all"
+msgstr ""
+
+msgid "Collateral"
+msgstr ""
+
+msgid "Community Approval"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm Adding Liquidity"
+msgstr ""
+
+msgid "Confirm Limit Order"
+msgstr ""
+
+msgid "Confirm Staking"
+msgstr ""
+
+msgid "Confirm Supply"
+msgstr ""
+
+msgid "Confirm Swap"
+msgstr ""
+
+msgid "Confirm Withdrawal"
+msgstr ""
+
+msgid "Confirm convert"
+msgstr ""
+
+msgid "Confirm this transaction in your wallet"
+msgstr ""
+
+msgid "Connect Wallet"
+msgstr ""
+
+msgid "Connect to a wallet"
+msgstr ""
+
+msgid "Connect to wallet"
+msgstr ""
+
+msgid "Convert"
+msgstr ""
+
+msgid "Converting {0} {1} for {2} {3}"
+msgstr ""
+
+msgid "Copied"
+msgstr ""
+
+msgid "Copy Address"
+msgstr ""
+
+msgid "Cream"
+msgstr ""
+
+msgid "Cream → Mob"
+msgstr ""
+
+msgid "Create Pool & Supply"
+msgstr ""
+
+msgid "Create a new Troop Market"
+msgstr ""
+
+msgid "Create pool"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "Deposit"
+msgstr ""
+
+msgid "Deposit KANGA into Mob"
+msgstr ""
+
+msgid "Deposit tokens into Mob for all the yields"
+msgstr ""
+
+msgid "Deposit {0} into Mob"
+msgstr ""
+
+msgid "Depositing {0} into Mob"
+msgstr ""
+
+msgid "Dev"
+msgstr ""
+
+msgid "Disable Multihops"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Discord"
+msgstr ""
+
+msgid "Dismiss"
+msgstr ""
+
+msgid "Docs"
+msgstr ""
+
+msgid "Documentation for developers of Kanga."
+msgstr ""
+
+msgid "Documentation for users of Kanga."
+msgstr ""
+
+msgid "Either return to the {link}, or change to an available network."
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Enter Amount"
+msgstr ""
+
+msgid "Enter a recipient"
+msgstr ""
+
+msgid "Enter a valid slippage percentage"
+msgstr ""
+
+msgid "Enter an amount"
+msgstr ""
+
+msgid "Enter an mount"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error connecting"
+msgstr ""
+
+msgid "Error connecting. Try refreshing the page."
+msgstr ""
+
+msgid "Exchange Rate"
+msgstr ""
+
+msgid "Expanded results from inactive Token Lists"
+msgstr ""
+
+msgid "Expert Mode"
+msgstr ""
+
+msgid ""
+"Expert mode turns off the confirm transaction prompt and allows high slippage trades\n"
+"that often result in bad rates and lost funds."
+msgstr ""
+
+msgid "Expiration is the time at which the order will become invalid"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Farm"
+msgstr ""
+
+msgid "Filled"
+msgstr ""
+
+msgid "Find Pool"
+msgstr ""
+
+msgid ""
+"For every swap on the exchange on every chain, 0.05% of the swap fees are distributed as KANGA\n"
+"proportional to your share of the Billabong. When your KANGA is staked into the Billabong, you recieve\n"
+"xKANGA in return for voting rights and a fully composable token that can interact with other protocols.\n"
+"Your xKANGA is continuously compounding, when you unstake you will receive all the originally deposited\n"
+"KANGA and any additional from fees."
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Gain exposure to tokens without reducing your assets. Leverage will enable you to take short positions against assets and earn from downside movements."
+msgstr ""
+
+msgid ""
+"Gain governance rights with xKANGA and earn 5% APR (0.05% of\n"
+"all swaps from all chains)"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Go Back"
+msgstr ""
+
+msgid "Harmony Bridge"
+msgstr ""
+
+msgid "Harvest {0} KANGA {1}"
+msgstr ""
+
+msgid "Harvest {0}/{1}"
+msgstr ""
+
+msgid "Have assets you want to earn additional interest on? Lend them in isolated markets and earn interest from borrowers."
+msgstr ""
+
+msgid "Health"
+msgstr ""
+
+msgid "Historical Total Locked: Connect Wallet"
+msgstr ""
+
+msgid "Historical Total Locked: Fetching Total"
+msgstr ""
+
+msgid "Historical Total Locked: {0} KANGA"
+msgstr ""
+
+msgid "If you want to supply to a market that is not listed yet, you can use this tool to create a new pair."
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import List"
+msgstr ""
+
+msgid "Import Pool"
+msgstr ""
+
+msgid "In Mob:"
+msgstr ""
+
+msgid "In Wallet:"
+msgstr ""
+
+msgid "Input is estimated. You will sell at most"
+msgstr ""
+
+msgid "Insufficient Balance"
+msgstr ""
+
+msgid "Insufficient liquidity for this trade"
+msgstr ""
+
+msgid "Insufficient {0} balance"
+msgstr ""
+
+msgid "Interface Settings"
+msgstr ""
+
+msgid "Invalid pair"
+msgstr ""
+
+msgid "Invalid recipient"
+msgstr ""
+
+msgid "Isolated lending markets mitigate your risks as an asset lender. Know exactly what collateral is available to you in the event of counter party insolvency."
+msgstr ""
+
+msgid ""
+"It seems like you have some open orders while the limit order master contract is not yet approved. Please make\n"
+"sure you have approved the limit order master contract or the order will not execute"
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Joey"
+msgstr ""
+
+msgid "Join the community on Discord."
+msgstr ""
+
+msgid "KANGA"
+msgstr ""
+
+msgid "KANGA → Aave"
+msgstr ""
+
+msgid "KANGA → Cream"
+msgstr ""
+
+msgid "KANGA → Mob"
+msgstr ""
+
+msgid "KLP"
+msgstr ""
+
+msgid ""
+"KMOB tokens wrap xKANGA into Mob for double yields and can be\n"
+"used to vote in special KMOB governor contracts."
+msgstr ""
+
+msgid "Kanga is a supporter of Open Source."
+msgstr ""
+
+msgid "KangaFinance"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "LTV"
+msgstr ""
+
+msgid "Learn more about wallets"
+msgstr ""
+
+msgid "Lend"
+msgstr ""
+
+msgid "Lend assets for interest from borrowers."
+msgstr ""
+
+msgid "Lend your assets, earn yield with no impermanent loss"
+msgstr ""
+
+msgid "Lending"
+msgstr ""
+
+msgid "Lent"
+msgstr ""
+
+msgid "Limit"
+msgstr ""
+
+msgid "Limit Orders Disabled"
+msgstr ""
+
+msgid "Limit order"
+msgstr ""
+
+msgid "Liquidity"
+msgstr ""
+
+msgid "Liquidity Provider Fee"
+msgstr ""
+
+msgid "Liquidity Provider Rewards"
+msgstr ""
+
+msgid ""
+"Liquidity providers earn a 0.25% fee on all trades proportional to their share of\n"
+"the pool. Fees are added to the pool, accrue in real time and can be claimed by\n"
+"withdrawing your liquidity"
+msgstr ""
+
+msgid "Lists"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Loading Balance"
+msgstr ""
+
+msgid "Loading balance"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "MAX"
+msgstr ""
+
+msgid "MEV Shield by Archer DAO"
+msgstr ""
+
+msgid "Manage"
+msgstr ""
+
+msgid "Manage Token Lists"
+msgstr ""
+
+msgid "Manage this pool"
+msgstr ""
+
+msgid "Market"
+msgstr ""
+
+msgid "Markets"
+msgstr ""
+
+msgid "Matic Bridge"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "Maximize yield by staking KANGA for xKANGA"
+msgstr ""
+
+msgid "Maximum sent"
+msgstr ""
+
+msgid "Migrate"
+msgstr ""
+
+msgid "Miner Tip"
+msgstr ""
+
+msgid "Minimum Received"
+msgstr ""
+
+msgid "Minimum received"
+msgstr ""
+
+msgid "Mob"
+msgstr ""
+
+msgid "Mob Balance: {0}"
+msgstr ""
+
+msgid "Mob provides extra yield on deposits with flash lending, strategies, and fixed, low-gas transfers among integrated dapps, like Troop markets"
+msgstr ""
+
+msgid "Mob strategies can create yield for your collateral tokens. This token does not yet have a strategy in the Mob."
+msgstr ""
+
+msgid "Mob strategies can create yield for your liquidity while it is not lent out. This token does not yet have a strategy in the Mob."
+msgstr ""
+
+msgid "My KANGA"
+msgstr ""
+
+msgid "My Liquidity Positions"
+msgstr ""
+
+msgid "My Orders"
+msgstr ""
+
+msgid "Network not supported yet"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New to Ethereum?"
+msgstr ""
+
+msgid "No liquidity found to do swap"
+msgstr ""
+
+msgid "No liquidity was found."
+msgstr ""
+
+msgid "No order history"
+msgstr ""
+
+msgid "No pool found"
+msgstr ""
+
+msgid "No results found"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not approved"
+msgstr ""
+
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING."
+msgstr ""
+
+msgid "One-Click Strategies"
+msgstr ""
+
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device"
+msgstr ""
+
+msgid "Open Orders"
+msgstr ""
+
+msgid "Open Source"
+msgstr ""
+
+msgid "Open main menu"
+msgstr ""
+
+msgid "Oracle"
+msgstr ""
+
+msgid "Order Expiration"
+msgstr ""
+
+msgid "Order History"
+msgstr ""
+
+msgid ""
+"Output is estimated. If the price changes by more than {0}% your transaction\n"
+"will revert."
+msgstr ""
+
+msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
+msgstr ""
+
+msgid "Output is estimated. You will receive at least"
+msgstr ""
+
+msgid "Output will be sent to"
+msgstr ""
+
+msgid "Pay"
+msgstr ""
+
+msgid "Pay from:"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Pending Treasury Transfer"
+msgstr ""
+
+msgid "Please connect to the appropriate Ethereum network."
+msgstr ""
+
+msgid "Please enter an amount"
+msgstr ""
+
+msgid "Please make sure your {0} balance is sufficient to deposit and then try again."
+msgstr ""
+
+msgid "Please make sure your {0} balance is sufficient to withdraw and then try again."
+msgstr ""
+
+msgid "Please note that the recipient address is different from the connected wallet address."
+msgstr ""
+
+msgid "Please refer to the"
+msgstr ""
+
+msgid "Pool"
+msgstr ""
+
+msgid "Pool Found!"
+msgstr ""
+
+msgid "Pool Tokens"
+msgstr ""
+
+msgid "Pool tokens in rewards pool"
+msgstr ""
+
+msgid "Pooled {0}"
+msgstr ""
+
+msgid "Positions"
+msgstr ""
+
+msgid "Price Impact"
+msgstr ""
+
+msgid "Price Impact High"
+msgstr ""
+
+msgid "Price Impact Too High"
+msgstr ""
+
+msgid "Price Updated"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid "Rates"
+msgstr ""
+
+msgid "Receive"
+msgstr ""
+
+msgid "Recent Transactions"
+msgstr ""
+
+msgid "Recipient"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove recipient"
+msgstr ""
+
+msgid "Remove {0} {1} and {2} {3}"
+msgstr ""
+
+msgid "Removing {0} {1} and {2} {3}"
+msgstr ""
+
+msgid "Repay"
+msgstr ""
+
+msgid "Restricts swaps to direct pairs only."
+msgstr ""
+
+msgid "Review Limit Order"
+msgstr ""
+
+msgid "Rewards"
+msgstr ""
+
+msgid "Roll it back - this feature is not yet supported on {0}."
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Route"
+msgstr ""
+
+msgid "Routing through these tokens resulted in the best price for your trade."
+msgstr ""
+
+msgid "Russian"
+msgstr ""
+
+msgid "Search name or paste address"
+msgstr ""
+
+msgid "Select a asset token"
+msgstr ""
+
+msgid "Select a collateral token"
+msgstr ""
+
+msgid "Select a rate"
+msgstr ""
+
+msgid "Select a token"
+msgstr ""
+
+msgid "Select a token to find your liquidity"
+msgstr ""
+
+msgid "Select an order expiration"
+msgstr ""
+
+msgid "Send to:"
+msgstr ""
+
+msgid "Send transaction privately to avoid front-running and sandwich attacks. Requires a miner tip to incentivize miners"
+msgstr ""
+
+msgid "Share of Pool"
+msgstr ""
+
+msgid "Share of Pool:"
+msgstr ""
+
+msgid "Slippage tolerance"
+msgstr ""
+
+msgid "Slippage tolerance..."
+msgstr ""
+
+msgid "Something went wrong during signing of the approval. This is expected for hardware wallets, such as Trezor and Ledger. Click again and the fallback method will be used"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Stack Yields with SAAVE"
+msgstr ""
+
+msgid "Stake"
+msgstr ""
+
+msgid "Stake KANGA"
+msgstr ""
+
+msgid "Stake KANGA for xKANGA"
+msgstr ""
+
+msgid "Stake KANGA for xKANGA and deposit into Aave in one click. xKANGA in Aave (aXKANGA) can be lent or used as collateral for borrowing."
+msgstr ""
+
+msgid "Stake KANGA for xKANGA and deposit into Cream in one click. xKANGA in Cream (crXKANGA) can be lent or used as collateral for borrowing."
+msgstr ""
+
+msgid ""
+"Stake KANGA for xKANGA and deposit into Mob in one click. xKANGA in Mob is automatically\n"
+"invested into a passive yield strategy, and can be lent or used as collateral for borrowing in Troop."
+msgstr ""
+
+msgid "Stake KANGA for xKANGA into Cream and deposit crXKANGA into Mob in one click."
+msgstr ""
+
+msgid ""
+"Stake into xKANGA add collateral as axKANGA on Aave all in\n"
+"one click"
+msgstr ""
+
+msgid "Staking APR"
+msgstr ""
+
+msgid "Supply APR"
+msgstr ""
+
+msgid "Supplying {0} {1} and {2} {3}"
+msgstr ""
+
+msgid "Swap"
+msgstr ""
+
+msgid "Swap Anyway"
+msgstr ""
+
+msgid "Swap From (est.):"
+msgstr ""
+
+msgid "Swap From:"
+msgstr ""
+
+msgid "Swap To (est.):"
+msgstr ""
+
+msgid "Swap To:"
+msgstr ""
+
+msgid "TVL"
+msgstr ""
+
+msgid ""
+"Take your KANGA and invest in various strategies with one click! Earn extra yields with Mob, use as\n"
+"collateral on other platforms, and more!"
+msgstr ""
+
+msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+msgstr ""
+
+msgid "The difference between the market price and estimated price due to trade size."
+msgstr ""
+
+msgid "The input token cannot be transferred. There may be an issue with the input token."
+msgstr ""
+
+msgid "The isn't enough liquidity available at the moment to withdraw this amount. Please try withdrawing less or later."
+msgstr ""
+
+msgid "The onchain oracle that tracks the pricing for this pair"
+msgstr ""
+
+msgid "The output token cannot be transferred. There may be an issue with the output token."
+msgstr ""
+
+msgid "The transaction could not be sent because the deadline has passed. Please check that your transaction deadline is not too low."
+msgstr ""
+
+msgid "Things you can do with your KANGA"
+msgstr ""
+
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr ""
+
+msgid "This transaction is below market rate"
+msgstr ""
+
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance."
+msgstr ""
+
+msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
+msgstr ""
+
+msgid "Tip to encourage miners to select this transaction."
+msgstr ""
+
+msgid "Tip:"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Toggle Expert Mode"
+msgstr ""
+
+msgid "Token"
+msgstr ""
+
+msgid "Tokens"
+msgstr ""
+
+msgid ""
+"Tokens from inactive lists. Import specific tokens below or\n"
+"click Manage to activate more lists."
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Tools to optimize your workflow."
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Transaction History {0}"
+msgstr ""
+
+msgid "Transaction Settings"
+msgstr ""
+
+msgid "Transaction Submitted"
+msgstr ""
+
+msgid "Transaction deadline"
+msgstr ""
+
+msgid "Try enabling multi-hop trades"
+msgstr ""
+
+msgid "Turn On Expert Mode"
+msgstr ""
+
+msgid "Unknown error{0}. Try increasing your slippage tolerance."
+msgstr ""
+
+msgid "Unstake"
+msgstr ""
+
+msgid "Unstaked"
+msgstr ""
+
+msgid "Unsupported Asset"
+msgstr ""
+
+msgid "Unwrap"
+msgstr ""
+
+msgid "Use KANGA"
+msgstr ""
+
+msgid "Use this tool to find pairs that don't automatically appear in the interface"
+msgstr ""
+
+msgid "Use xKANGA"
+msgstr ""
+
+msgid "Used"
+msgstr ""
+
+msgid "Vesting"
+msgstr ""
+
+msgid "Vesting is executed within the guidelines selected by the community in"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "View Liquidity Positions"
+msgstr ""
+
+msgid "View Stats"
+msgstr ""
+
+msgid "View on explorer"
+msgstr ""
+
+msgid "Waiting for Confirmation"
+msgstr ""
+
+msgid "Wallet"
+msgstr ""
+
+msgid "Wallet Balance"
+msgstr ""
+
+msgid "Weekly unlocks from the vesting period."
+msgstr ""
+
+msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
+msgstr ""
+
+msgid "Withdraw"
+msgstr ""
+
+msgid "Wrap"
+msgstr ""
+
+msgid "Wrong Network"
+msgstr ""
+
+msgid "Yesterday's APR"
+msgstr ""
+
+msgid "You Pay:"
+msgstr ""
+
+msgid "You are creating a pool"
+msgstr ""
+
+msgid "You are on the wrong network"
+msgstr ""
+
+msgid "You don’t have liquidity in this pool yet"
+msgstr ""
+
+msgid "You pay"
+msgstr ""
+
+msgid "You receive"
+msgstr ""
+
+msgid "You receive:"
+msgstr ""
+
+msgid "You will receive"
+msgstr ""
+
+msgid "Your"
+msgstr ""
+
+msgid "Your Billabong Stats"
+msgstr ""
+
+msgid "Your Claimable KANGA this Week"
+msgstr ""
+
+msgid "Your Staked"
+msgstr ""
+
+msgid "Your pool share"
+msgstr ""
+
+msgid "Your total pool tokens"
+msgstr ""
+
+msgid "Your transaction may be frontrun"
+msgstr ""
+
+msgid "Your transaction may fail"
+msgstr ""
+
+msgid "Your transaction will revert 23if the price changes unfavorably by more than this percentage."
+msgstr ""
+
+msgid "Your transaction will revert if it is pending for more than this long."
+msgstr ""
+
+msgid "Your transaction will revert if there is a large, unfavorable price movement before it is confirmed."
+msgstr ""
+
+msgid "Your transactions will appear here..."
+msgstr ""
+
+msgid "above"
+msgstr ""
+
+msgid "below"
+msgstr ""
+
+msgid "crXKANGA"
+msgstr ""
+
+msgid "crXKANGA in Mob"
+msgstr ""
+
+msgid "failed to load"
+msgstr ""
+
+msgid "for deliberations on additional points."
+msgstr ""
+
+msgid "forum discussion"
+msgstr ""
+
+msgid "home page"
+msgstr ""
+
+msgid "loading..."
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "or the transaction will revert."
+msgstr ""
+
+msgid "xDai Bridge"
+msgstr ""
+
+msgid "xKANGA"
+msgstr ""
+
+msgid "xKANGA Fee"
+msgstr ""
+
+msgid "xKANGA in Aave"
+msgstr ""
+
+msgid "xKANGA in Cream"
+msgstr ""
+
+msgid "xKANGA in Mob"
+msgstr ""
+
+#. js-lingui:icu=%7B0%2C+plural%2C+one+%7BToken%7D+many+%7BTokens%7D%7D&pluralize_on=0
+msgid "Token"
+msgid_plural "Tokens"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "{0} Deposited"
+msgstr ""
+
+msgid "{0} Strategy"
+msgstr ""
+
+msgid "{0} {1} per {2}"
+msgstr ""
+
+msgid "{0} {sign} market rate"
+msgstr ""
+
+msgid "{0}/{1} Burned"
+msgstr ""
