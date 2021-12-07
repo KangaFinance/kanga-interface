@@ -14,7 +14,6 @@ import Alert from '../../../components/Alert'
 import { AutoColumn } from '../../../components/Column'
 import { BigNumber } from '@ethersproject/bignumber'
 
-
 import { ConfirmAddModalBottom } from '../../../features/exchange-v1/liquidity/ConfirmAddModalBottom'
 import Container from '../../../components/Container'
 import CurrencyInputPanel from '../../../components/CurrencyInputPanel'
@@ -133,6 +132,9 @@ export default function Add() {
   const factoryContract = useFactoryContract()
 
   // check whether the user has approved the router on the tokens
+  console.log(`approvalA parsedAmounts:  ${parsedAmounts[Field.CURRENCY_A]}`)
+  console.log(`approvalA routerContract: ${routerContract?.address}`)
+
   const [approvalA, approveACallback] = useApproveCallback(parsedAmounts[Field.CURRENCY_A], routerContract?.address)
   const [approvalB, approveBCallback] = useApproveCallback(parsedAmounts[Field.CURRENCY_B], routerContract?.address)
 

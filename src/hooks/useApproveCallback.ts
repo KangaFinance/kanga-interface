@@ -29,18 +29,29 @@ export function useApproveCallback(
   amountToApprove?: CurrencyAmount<Currency>,
   spender?: string
 ): [ApprovalState, () => Promise<void>] {
+  // console.log(`amountToApprove: ${JSON.stringify(amountToApprove)}`)
+  // console.log(`spender: ${spender}`)
   const { account } = useActiveWeb3React()
+  console.log(`account: ${account}`)
   const token = amountToApprove?.currency?.isToken ? amountToApprove.currency : undefined
+  // console.log(`amountToApprove: ${JSON.stringify(amountToApprove)}`)
+  // console.log(`token: ${JSON.stringify(token)}`)
   const currentAllowance = useTokenAllowance(token, account ?? undefined, spender)
+  console.log(`currentAllowance: ${JSON.stringify(currentAllowance)}`)
   const pendingApproval = useHasPendingApproval(token?.address, spender)
+  console.log(`pendingApproval: ${JSON.stringify(pendingApproval)}`)
 
   // check the current approval status
   const approvalState: ApprovalState = useMemo(() => {
+    console.log(`!amountToApprove || !spender`)
     if (!amountToApprove || !spender) return ApprovalState.UNKNOWN
+    console.log(`amountToApprove.currency.isNative`)
     if (amountToApprove.currency.isNative) return ApprovalState.APPROVED
     // we might not have enough data to know whether or not we need to approve
+    console.log(`!currentAllowance`)
     if (!currentAllowance) return ApprovalState.UNKNOWN
 
+    console.log(`currentAllowance.lessThan(amountToApprove)`)
     // amountToApprove will be defined if currentAllowance is
     return currentAllowance.lessThan(amountToApprove)
       ? pendingApproval
@@ -53,8 +64,9 @@ export function useApproveCallback(
   const addTransaction = useTransactionAdder()
 
   const approve = useCallback(async (): Promise<void> => {
+    console.log(`approvalState: ${approvalState}`)
     if (approvalState !== ApprovalState.NOT_APPROVED) {
-      console.error('approve was called unnecessarily')
+      console.error('approve was called unnecessarily for adding liquidity')
       return
     }
     if (!token) {

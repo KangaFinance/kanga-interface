@@ -2064,10 +2064,10 @@
     "@kangafinance/default-token-list" "^0.0.10"
     eip-712 "^0.4.3"
 
-"@kangafinance/core@^0.0.25":
-  version "0.0.25"
-  resolved "https://registry.yarnpkg.com/@kangafinance/core/-/core-0.0.25.tgz#5e3b4e834230d7c10df29ba4fe69ffdeb07954cd"
-  integrity sha512-t8CwMK8ZmrEUQJ3d5yYboWMnYGBPFOfNfnOxiMi+vV2VV+kLpaUpPufkF2kYoZuwxG1+MeWY7vw+rb3v6wH27Q==
+"@kangafinance/core@^0.0.30":
+  version "0.0.30"
+  resolved "https://registry.yarnpkg.com/@kangafinance/core/-/core-0.0.30.tgz#6dbdbba666602fa44604d03a0c9b2702c7be662b"
+  integrity sha512-98tefPUTMsDufsCizUN5vItmekD2Ejw4soOBwJ/CxLqlxDQpuc8AbVdfLhSTDRlIGULh851xExXOn+9iA7vb2w==
 
 "@kangafinance/default-token-list@^0.0.10":
   version "0.0.10"
@@ -2119,10 +2119,10 @@
   resolved "https://registry.yarnpkg.com/@kangafinance/limit-order-v2/-/limit-order-v2-0.0.12.tgz#98226f3edc69e5a1ec623fb60f9a3747fc001fbc"
   integrity sha512-44as9ZGhdiqgBeN/pLfNx/qCAoh9X6/ES99nY5In8TLx10OQERk/FF3naEwzOusTv1zxBIJAPcDaYCaU1y9siA==
 
-"@kangafinance/sdk@^0.0.29":
-  version "0.0.29"
-  resolved "https://registry.yarnpkg.com/@kangafinance/sdk/-/sdk-0.0.29.tgz#836d6f87cc93bd30f0227095c56947acdc610ba1"
-  integrity sha512-iKceNhonVdSPkvC8uVEepZT8MVOuwTDKBZ/QeWRMcAfeadZpiI6AJjyvz3h75wNtSMZGptHGwQcIUybvIlyOPA==
+"@kangafinance/sdk@^0.0.36":
+  version "0.0.36"
+  resolved "https://registry.yarnpkg.com/@kangafinance/sdk/-/sdk-0.0.36.tgz#7f610a70cda5cf4befe9dd9381bb0ae71d20b047"
+  integrity sha512-YrQIpY5ThXyyjKSUWkmoNu2xuYgVdBwKUAbE/Nbhz6a4Hah292Evl7DX62J4EBDMq06p1FiJvAwWJYhv0itl8w==
   dependencies:
     big.js "^6.1.0"
     decimal.js-light "^2.5.0"
